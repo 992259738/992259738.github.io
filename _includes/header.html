@@ -8,11 +8,11 @@
             <div class="row-details">
               <h4 class="list-group-item-heading">{{ site.author }}</h4>
               <p class="list-group-item-text">{{ site.about }}</p>
-              {% include social_links.html %}
+              {% include social_links.html %}测试一下哪个位置1
             </div>
             <div class="navbar-header pull-right">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
+                <span class="sr-only">Toggle navigation测试一下哪个位置2</span>
                 <i class="fa fa-2x fa-bars"></i>
               </button>
             </div>
@@ -35,7 +35,7 @@
                 <span class="categories">
                   &raquo; 
                   {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
+                    <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}测试一下哪个位置3</a>
                     {% if forloop.last == false %}, {% endif %}
                   {% endfor %}
                 </span>
