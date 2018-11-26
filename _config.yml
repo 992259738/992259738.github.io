@@ -1,17 +1,17 @@
-title: John Smith
+title: Mo Qiu Mo
 description: My Personal Blog
-author: John Smith
+author: Mo Qiu Mo
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/992259738
+about: A novice
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://992259738.github.io/"
+url: "https://992259738.github.io/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: Mo Qiu Mo
+google_analytics: \#
 
 share:
   twitter_username: \#
@@ -25,4 +25,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+gems: [ Mo Qiu Mo,  Mo Qiu Mo]
