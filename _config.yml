@@ -1,9 +1,9 @@
 title: Mo Qiu Mo
-description: My Personal Blog
+description: "个人博客"
 author: Mo Qiu Mo
 logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/992259738
-about: A novice
+about: 小萌新
 
 baseurl: "https://992259738.github.io/"
 url: "https://992259738.github.io/"
