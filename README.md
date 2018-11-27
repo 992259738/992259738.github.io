@@ -3,7 +3,7 @@
 This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
 ### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+* [https://992259738.github.io/992259738.github.io](https://992259738.github.io/992259738.github.io/)
 
 #### Feature
 
