@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /Home/
+permalink: /home/
 ---
 
 您好，欢迎您访问我的博客!
