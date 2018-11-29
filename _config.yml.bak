@@ -1,0 +1,28 @@
+title: Mo Qiu Mo
+description: "个人博客"
+author: Mo Qiu Mo
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/992259738
+about: 小萌新
+
+baseurl: "https://992259738.github.io/"
+url: "https://992259738.github.io/"
+
+allowsearch: true
+
+disqus_shortname: Mo Qiu Mo
+google_analytics: \#
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [ Mo Qiu Mo,  Mo Qiu Mo]
