@@ -5,8 +5,8 @@
 		"url": "#",
 		"date": "2018-11-29",
 		"tags": ["Java"]
-	}
-	<!--{
+	},
+	{
 		"name": "Cool project 2",
 		"image": "placeholder.jpg",
 		"url": "#",
@@ -19,5 +19,5 @@
 		"url": "#",
 		"date": "June 2018",
 		"tags": ["HTML","JQuery","PHP"]
-	}-->
+	}
 ]
